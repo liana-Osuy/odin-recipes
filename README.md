@@ -1,0 +1,1 @@
+this project is about practicing what i have already learned in the earlier html course, i expect this course to teach me more of the science behind commitments.
